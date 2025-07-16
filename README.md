@@ -2,9 +2,6 @@
 
 **GESTHOS** (Gestión de Equipos y Servicios Técnicos Hospitalarios) is an open-source web platform for managing biomedical equipment maintenance in Peruvian public hospitals. It digitizes the complete workflow of maintenance orders, technical specifications, and historical logs, following MINSA's official formats.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-demo-banner.png" alt="GESTHOS Banner" width="80%"/>
-</p>
 
 ## 🔧 Features
 
@@ -69,7 +66,7 @@ JWT_SECRET=your_secret_key
 Users can scan QR codes attached to equipment using their webcam or upload images. This retrieves full device metadata and links to maintenance records instantly.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-demo-scanner.png" alt="QR Scanner" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/c92a2a5c-c3ff-4a1a-acc7-114705ef47a0" alt="QR Scanner" width="70%"/>
 </p>
 
 ---
@@ -77,7 +74,7 @@ Users can scan QR codes attached to equipment using their webcam or upload image
 ## 📑 Sample OTM Digital Form
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-demo-otm.png" alt="OTM Digital" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/c39a0416-5329-448e-a3aa-a7695cbaa141" alt="OTM Digital" width="80%"/>
 </p>
 
 ---
