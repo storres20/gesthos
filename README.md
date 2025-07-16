@@ -20,8 +20,11 @@
 
 | Repository | Description |
 |-----------|-------------|
-| [bio-data-nextjs](https://github.com/storres20/bio-data-nextjs) | Frontend (Next.js 14 App Router + Tailwind CSS) |
-| [bio-data](https://github.com/storres20/bio-data) | Backend (Node.js + Express + MongoDB + JWT + WebSockets) |
+| [bio-thesis](https://github.com/storres20/bio-thesis) | Frontend (Next.js 14 App Router + Tailwind CSS) |
+| [bio-thesis-mongoback](https://github.com/storres20/bio-thesis-mongoback) | Backend (Node.js + Express + MongoDB + JWT + WebSockets) |
+
+**Live Web Dashboard:**  
+[https://bio-thesis.vercel.app/login](https://bio-thesis.vercel.app/login)
 
 ---
 
@@ -84,8 +87,8 @@ Users can scan QR codes attached to equipment using their webcam or upload image
 Users can export official MINSA-compatible formats of:
 
 - OTM
-- FT *(planned)*
-- RH *(planned)*
+- FT
+- RH
 
 ---
 
